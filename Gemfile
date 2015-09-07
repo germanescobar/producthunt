@@ -31,7 +31,7 @@ gem 'gravatar-ultimate'
 gem 'annotate'
 
 gem "paperclip", "~> 4.3"
-gem 'aws-sdk'
+gem 'aws-sdk', '< 2.0'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
